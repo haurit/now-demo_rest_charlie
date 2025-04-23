@@ -4,13 +4,41 @@
             <element>number</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-04-23 15:22:54</sys_created_on>
-            <sys_id>64c7585a83892e10f779ba29feaad350</sys_id>
+            <sys_created_on>2025-04-23 15:40:37</sys_created_on>
+            <sys_id>ccdb90de83892e10f779ba29feaad3e1</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_669990_charlie_1_products" sys_domain="global" view="Default view">a4c7585a83892e10f779ba29feaad34d</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-04-23 15:22:54</sys_updated_on>
+            <sys_updated_on>2025-04-23 15:40:37</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>name</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-23 15:40:37</sys_created_on>
+            <sys_id>44db90de83892e10f779ba29feaad3e2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_669990_charlie_1_products" sys_domain="global" view="Default view">a4c7585a83892e10f779ba29feaad34d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-23 15:40:37</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>description</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-23 15:40:37</sys_created_on>
+            <sys_id>c8db90de83892e10f779ba29feaad3e2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_669990_charlie_1_products" sys_domain="global" view="Default view">a4c7585a83892e10f779ba29feaad34d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-23 15:40:37</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

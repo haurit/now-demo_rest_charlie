@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Charlies Product Application">c87c141283c92e10f779ba29feaad39c</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint>This is where I have my products</hint>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Products</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_669990_charlie_1_products</name>
+        <order>100</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <require_confirmation>true</require_confirmation>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-23 15:44:19</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>e28cd41283c92e10f779ba29feaad360</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Products</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Charlies REST New Demo" source="x_669990_charlie_1">4c479c1a83892e10f779ba29feaad338</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Charlies REST New Demo">4c479c1a83892e10f779ba29feaad338</sys_scope>
+        <sys_update_name>sys_app_module_e28cd41283c92e10f779ba29feaad360</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-04-23 15:44:19</sys_updated_on>
+        <timeline_page/>
+        <title>Products</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>
