@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="ccc7185a83892e10f779ba29feaad3de" label="Products" max_length="40" name="x_669990_charlie_1_products" type="collection">
+        <element label="Name" max_length="100" name="name" type="string"/>
+        <element label="Description" max_length="4000" name="description" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+    </element>
+</database>

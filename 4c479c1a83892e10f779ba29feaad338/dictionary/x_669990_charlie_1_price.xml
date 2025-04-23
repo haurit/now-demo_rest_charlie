@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="dd48149a83892e10f779ba29feaad3ed" label="Price" max_length="40" name="x_669990_charlie_1_price" type="collection">
+        <element label="Product" max_length="32" name="product" reference="x_669990_charlie_1_products" type="reference"/>
+        <element label="Price" max_length="40" name="price" type="currency2"/>
+        <element label="Country" max_length="32" name="country" reference="core_country" type="reference"/>
+        <element label="Price Value" max_length="40" name="price_value" type="float"/>
+        <index name="index">
+            <element name="country"/>
+        </index>
+        <index name="index2">
+            <element name="price"/>
+        </index>
+        <index name="index3">
+            <element name="product"/>
+        </index>
+    </element>
+</database>
